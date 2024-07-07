@@ -1,27 +1,66 @@
-# Store
+![Imagem do projeto](./src/assets/projeto.png)
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.2.
+# Entrega de projeto - Recriando a Interface da PlayStation Store com Angular | DIO
 
-## Development server
+Neste desafio de projeto, recriei a Playstation Store utilizando Angular. Este projeto tem como objetivo demonstrar a aplicação de conceitos fundamentais do Angular, incluindo a criação de componentes, organização do layout, refatoração de partes do código e a estruturação de um projeto escalável.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+## Funcionalidades
 
-## Code scaffolding
+- **Componentização**: Divisão da aplicação em componentes reutilizáveis para facilitar a manutenção e evolução do projeto.
+- **Layout Responsivo**: Utilização de CSS e Angular Material para criar um layout atraente e responsivo.
+- **Serviços e Injeção de Dependência**: Implementação de serviços para gerenciar dados e comunicação entre componentes.
+- **Rotas**: Configuração de rotas para navegação entre diferentes partes da aplicação.
+- **Refatoração de Código**: Melhoria contínua do código, mantendo-o limpo e organizado.
+- **Organização do Projeto**: Estruturação do projeto de forma modular para facilitar a escalabilidade.
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## Como Executar o Projeto
 
-## Build
+1. Clone o repositório:
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+   ```bash
+   git clone https://github.com/fabiocasadossites/desafio-angular-playStationstore-dio.git
+   ```
 
-## Running unit tests
+2. Navegue até o diretório do projeto:
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+   ```bash
+   cd nome-do-repositorio
+   ```
 
-## Running end-to-end tests
+3. Atualize o projeto, Em seu terminal e na pasta do projeto
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+   ```bash
+   npm install
+   ```
 
-## Further help
+4. Rodar o projeto
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+   ```bash
+   ng serve
+   ```
+
+<br>
+
+## 👨‍💻 Expert
+
+<p>
+    <img 
+      align=left 
+      margin=10 
+      width=80 
+      src="https://avatars.githubusercontent.com/u/44373172"
+    />
+    <p>&nbsp&nbsp&nbspFabio Augusto<br>
+    &nbsp&nbsp&nbsp
+    <a href="https://github.com/fabiocasadossites">
+    GitHub</a>&nbsp;|&nbsp;
+    <a href="https://www.linkedin.com/in/fabioasa/">LinkedIn</a>
+&nbsp;|&nbsp;
+    <a href="https://www.fabioaugusto.dev/">
+    Portfolio </a>
+&nbsp;&nbsp;</p>
+</p>
+<br/>
+<p>
+
+💻 com ❤️ por [Fabio Augusto](https://github.com/fabiocasadossites)
